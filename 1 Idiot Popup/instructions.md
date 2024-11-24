@@ -52,4 +52,4 @@ By using this script, you agree not to cause any harm or disruption to other use
 
 ---
 
-**Author**: github.com/artisticpy
+**Author**: [Artisticpy](https://www.github.com/artisticpy)
